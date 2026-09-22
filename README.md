@@ -3,12 +3,12 @@
 A refined, OC-themed ecommerce storefront for modern clothing, footwear, accessories, and home goods. The interface demonstrates custom client-side routing, catalog browsing, product detail flows, cart state management, and checkout interactions within a clean editorial shopping aesthetic.
 
 > [!NOTE]
-> [Live demo coming soon](#)
+> [Live demo](https://lumen-essentials.vercel.app/)
 
 ## Preview
 
-
-
+![desktop](./public/desktop.png)
+![mobile](./public/mobile.png)
 
 ## Features
 
@@ -60,8 +60,8 @@ public/
 
 ## Run Locally
 ```bash
-git clone https://github.com/Ravenick/lumen-modern-essentials.git
-cd "lumen-modern-essentials"
+git clone https://github.com/Ravenick/lumen-ecommerce.git
+cd "lumen-ecommerce"
 npm install
 npm run dev
 ```
